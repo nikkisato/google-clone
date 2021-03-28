@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 import { Link } from 'react-router-dom';
-import { Avatar, Button } from '@material-ui/core';
+import { Avatar } from '@material-ui/core';
 import AppsIcon from '@material-ui/icons/Apps';
 import Search from '../../Components/Search/Search';
 function Home() {
