@@ -3,7 +3,7 @@ import './Home.css';
 import { Link } from 'react-router-dom';
 import { Avatar, Button } from '@material-ui/core';
 import AppsIcon from '@material-ui/icons/Apps';
-import Search from '../../Components/Search';
+import Search from '../../Components/Search/Search';
 function Home() {
   return (
     <div className='home'>
